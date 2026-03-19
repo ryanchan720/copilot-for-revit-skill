@@ -1,4 +1,4 @@
-# Revit Copilot Skill
+# Copilot for Revit Skill
 
 OpenClaw skill，让用户能在飞书、Telegram 等聊天工具中用自然语言操作 Revit。
 
@@ -7,14 +7,14 @@ OpenClaw skill，让用户能在飞书、Telegram 等聊天工具中用自然语
 ### 方式一：从 ClawHub 安装（推荐）
 
 ```bash
-openclaw skill install revit-copilot
+openclaw skill install copilot-for-revit
 ```
 
-### 方式二：手动安装
+### 方式二：从 GitHub 安装
 
 ```bash
-git clone https://github.com/ryanchan720/revit-copilot-skill.git
-cp -r revit-copilot-skill ~/.openclaw/workspace/skills/revit-copilot
+git clone https://github.com/ryanchan720/copilot-for-revit-skill.git
+cp -r copilot-for-revit-skill ~/.openclaw/workspace/skills/copilot-for-revit
 ```
 
 ## 前置条件

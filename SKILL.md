@@ -1,5 +1,5 @@
 ---
-name: revit-copilot
+name: copilot-for-revit
 description: |
   让 OpenClaw 能够操作 Revit。当用户提及 Revit 相关操作（图纸、标注、视图、元素等）时自动调用。
   
