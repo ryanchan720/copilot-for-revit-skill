@@ -50,7 +50,7 @@ OpenClaw: 已更新 23 扇门的高度参数
 ## 文件结构
 
 ```
-revit-copilot/
+copilot-for-revit/
 ├── SKILL.md              # Skill 定义
 ├── README.md             # 本文件
 └── scripts/

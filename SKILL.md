@@ -9,7 +9,7 @@ description: |
   - 执行 Revit 命令（生成图纸、创建标注、查询元素等）
 ---
 
-# Revit Copilot Skill
+# Copilot for Revit Skill
 
 自动检测 Revit 相关意图，通过 `openclaw-bridge` 调用远程 Revit MCP 服务。
 
